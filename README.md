@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abraham Gutierrez, Ingeniero en sistemas
-- 👀 I am a web designer and developer, React.js, Node.js (Express), MySql, Figma WordPress ...
+- 👀 I am a web designer and developer: React.js, Next.js, Node.js (Express), MySql, Figma, WordPress, SQL, Django ...
 - 📫 https://portafolioag.netlify.app/  🌱 💞️
 
  
